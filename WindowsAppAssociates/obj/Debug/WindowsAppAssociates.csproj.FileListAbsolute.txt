@@ -1,0 +1,10 @@
+C:\Users\Nisha Parikh\source\repos\WindowsAppAssociates\WindowsAppAssociates\bin\Debug\WindowsAppAssociates.exe.config
+C:\Users\Nisha Parikh\source\repos\WindowsAppAssociates\WindowsAppAssociates\bin\Debug\WindowsAppAssociates.exe
+C:\Users\Nisha Parikh\source\repos\WindowsAppAssociates\WindowsAppAssociates\bin\Debug\WindowsAppAssociates.pdb
+C:\Users\Nisha Parikh\source\repos\WindowsAppAssociates\WindowsAppAssociates\obj\Debug\WindowsAppAssociates.csprojAssemblyReference.cache
+C:\Users\Nisha Parikh\source\repos\WindowsAppAssociates\WindowsAppAssociates\obj\Debug\WindowsAppAssociates.Form1.resources
+C:\Users\Nisha Parikh\source\repos\WindowsAppAssociates\WindowsAppAssociates\obj\Debug\WindowsAppAssociates.Properties.Resources.resources
+C:\Users\Nisha Parikh\source\repos\WindowsAppAssociates\WindowsAppAssociates\obj\Debug\WindowsAppAssociates.csproj.GenerateResource.cache
+C:\Users\Nisha Parikh\source\repos\WindowsAppAssociates\WindowsAppAssociates\obj\Debug\WindowsAppAssociates.csproj.CoreCompileInputs.cache
+C:\Users\Nisha Parikh\source\repos\WindowsAppAssociates\WindowsAppAssociates\obj\Debug\WindowsAppAssociates.exe
+C:\Users\Nisha Parikh\source\repos\WindowsAppAssociates\WindowsAppAssociates\obj\Debug\WindowsAppAssociates.pdb
